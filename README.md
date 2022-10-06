@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/shuniyam0" target="blank"><img src="https://img.shields.io/twitter/follow/shuniyam0?logo=twitter&style=for-the-badge" alt="shuniyam0" /></a> </p>
 
 
-- 📝 I regularly write articles on [aneshkesavan.com](https://aneshkesavan.com) and [f5automation.xyz/] (https://f5automation.xyz)
+- 📝 I regularly write articles on [aneshkesavan.com](https://aneshkesavan.com) and [f5automation.xyz/](https://f5automation.xyz)
 
 - 💬 Ask me about **Cloud, DevOps, Python and Web Development**
 
