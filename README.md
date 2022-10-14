@@ -10,12 +10,10 @@
 
 
 
-### Latest Blogs posts
+### Latest Open Source contributions
 <!-- BLOG-POST-LIST:START -->
-- [Prevent Image Cropping on Instagram](https://aneshkesavan.com/how-to-fit-the-whole-picture-on-instagram-using-python/)
-- [How to send messages to discord server with Python](https://aneshkesavan.com/how-to-send-messages-to-discord-server-with-python/)
-- [Create Retro 8 bit pixel art like NFT images with Python](https://aneshkesavan.com/create-retro-8-bit-pixel-art-like-nft-images-with-python/)
-- [How to host multiple wordpress sites for $5/month on AWS](https://aneshkesavan.com/how-to-host-multiple-wordpress-sites-for-5-dollar-a-month-on-aws/)
+- [Automate F5 BIGIP LTM Upgrades](https://github.com/anesh/f5_ltm_upgrade)
+- [Terraform provider for F5 BIGIP GTM/DNS](https://github.com/anesh/terraform-provider-bigip)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
