@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anesh Kesavan</h1>
 
 
-<p align="left"> <a href="https://twitter.com/shuniyam0" target="blank"><img src="https://img.shields.io/twitter/follow/shuniyam0?logo=twitter&style=for-the-badge" alt="shuniyam0" /></a> </p>
 
 
 - 💬 Ask me about **DevOps, Cloud, Cloud Native Systems**
